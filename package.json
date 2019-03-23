@@ -1,0 +1,14 @@
+{
+  "name": "test-node-git",
+  "version": "1.0.0",
+  "description": "my first node project on git hub",
+  "main": "git-hub-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BGiraldox",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
